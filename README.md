@@ -1,2 +1,2 @@
 # KPMG-Virtual-Internship
-![](images/github-KPMG.png)
+![](KPMG-Virtual-Internship/KPMG.png)
